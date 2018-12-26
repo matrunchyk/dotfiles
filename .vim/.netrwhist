@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/serhii/1'
+let g:netrw_dirhist_2='/Users/serhii/aws_installer'
+let g:netrw_dirhist_3='/Users/serhii/code/sandbox'
+let g:netrw_dirhist_4='/Users/serhii/.aws'
+let g:netrw_dirhist_5='/Users/serhii/.config'
+let g:netrw_dirhist_6='/Users/serhii/code/ansible/install-certbot/defaults'
+let g:netrw_dirhist_7='/Users/serhii/code/learning-hapi/src/views'
